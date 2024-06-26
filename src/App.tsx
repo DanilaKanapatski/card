@@ -31,7 +31,6 @@ export default App;
 const Box = styled.div`
     width: 300px;
     height: 350px;
-    margin: 176px auto;
     padding: 10px 10px 22px;
     border-radius: 15px;
     background-color: ${myTheme.colors.card};
